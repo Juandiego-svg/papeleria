@@ -1,0 +1,184 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins:500);
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css);
+.bell{
+    display: flex;
+}
+.Neymar{
+    display: flex;
+}
+
+.parrafos {
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30;
+}
+.headd{
+    display: flex;
+    background-color: #ebf2f2;
+
+}
+.botones{
+    margin-left: 700px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.foot{
+    background-color: #ebf2f2;
+    height: 100px;
+    width: 1670px;
+    color: black;
+    font-size: 30px;
+    display: flex;
+}
+.cuadrado{
+    width: 100px;
+    height:100px;
+    background: #4E4945;
+    text-align: center;
+}
+button{
+    text-decoration: none;
+}
+.js {
+    background-color:transparent;
+    border: none;
+    color: #ffffff;
+    cursor: pointer;
+    font-family: 'Poppins', Arial, sans-serif;
+    font-size: 17.5px;
+    font-weight: 500;
+    line-height: 48px;
+    margin: 15px 30px;
+    outline: none;
+    padding: 0 43px 0 0;
+    position: relative;
+    text-transform: uppercase;
+    
+}
+.js span {
+    background-color: #ade0db;
+    border-radius: 5px 0 0 5px;
+    padding: 10px 20px;
+    -webkit-transition: all 0.15s ease-in;
+    transition: all 0.15s ease-in;
+}
+  
+  .js::after {
+    font-family: FontAwesome;
+    content: "\f0da";
+    background-color: #ade0db;
+    position: initial;
+    height: 48px;
+    padding: 12px 20px;
+    top: 0;
+    border-radius: 0 5px 5px 0;
+    -webkit-transition: all 0.15s ease-in;
+    transition: all 0.15s ease-in;
+}
+.js:hover span,
+.js.hover span {
+  background-color: #ade0db;
+}
+
+.js:hover:after,
+.js.hover:after {
+  margin-top: -5px;
+  background-color: #ade0db;
+  box-shadow: -5px 10px 20px rgba(0, 0, 0, 0.5);
+}
+.adidas {
+    padding: 10px 20px;
+    background-color: #ade0db;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.nike {
+    padding: 10px 20px;
+    background-color: #ade0db;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.puma {
+    padding: 10px 20px;
+    background-color: #ade0db;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.bt_im {
+    display: flex;
+}
+.btt {
+    display: flex;
+}
+.bod {
+    background-color: #ebf2f2;
+}
+.conta {
+    background-image: url(contact.JPG);
+}
+.campo1 {
+    margin-top: 140px;
+    margin-left: 370px;
+}
+.campo2 {
+    margin-top: 115px;
+    margin-left: 370px;
+}
+.campo3 {
+    margin-top: 115px;
+    margin-left: 370px;
+}
+.campo4 {
+    margin-top: 130px;
+    margin-left: 370px;
+}
+
+.campo5 {
+    margin-top: 140px;
+    margin-left: 200px;
+    display: flex;
+}
+.input-text {
+    border: none;
+    background-color: #ebf2f2;
+}
+.fle {
+    display: flex;
+}
+.lin {
+    width: 1670px;
+    margin-top: 100px;
+}
+.prd {
+    width: 560;
+    height: 640px;
+}
+.pm {
+    width: 560;
+    height: 640px;
+}
+.envd {
+    text-align: center;
+}
+.adidass {
+    display: flex;
+}
+.adidasss {
+    display: flex;
+}
+.adidassss {
+    display: flex;
+}
+.contactanoss {
+    margin-top:30px ;
+    margin-left: 50px;
+}
